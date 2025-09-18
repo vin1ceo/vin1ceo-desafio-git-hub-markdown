@@ -8,7 +8,7 @@ Sou apaixonado por aprendizado, resolução de problemas e criação de projetos
 🚀 Sempre em busca de novos desafios e oportunidades de crescimento.  
 
 
-![Link de um gif.](/https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 - [x] Titulo
